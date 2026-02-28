@@ -514,9 +514,10 @@ p{line-height:1.6}
   display:flex !important;
   align-items:center;
   justify-content:space-between;
-  gap:14px;
+  gap:16px;
+  padding:10px 0 !important;
 }
-.socialIcon{ opacity:.9; }
+.socialIcon{ opacity:.95; }
 .footer__bottom{
   border-top: 1px solid rgba(255,255,255,.08);
   margin-top: 34px;
