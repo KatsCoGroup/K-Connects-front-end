@@ -276,15 +276,16 @@ p{line-height:1.6}
 /* Overview block */
 .overview{
   background: #0a4a4a;
-  padding: 56px 0;
+  padding: 60px 0;
 }
 .overview__inner{
-  padding: 10px 0;
+  padding: 12px 0;
 }
 .overview__lead{
-  margin:16px 0 26px;
-  color:rgba(234,246,246,.85);
+  margin:18px 0 28px;
+  color:rgba(234,246,246,.88);
   max-width: 80ch;
+  line-height:1.65;
 }
 .bullets{
   list-style: none;
