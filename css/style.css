@@ -144,8 +144,10 @@ p{line-height:1.6}
 .nav__link{
   font-size:12px;
   letter-spacing:.12em;
-  color:rgba(234,246,246,.76);
+  color:rgba(234,246,246,.78);
   position:relative;
+  padding:4px 0;
+  transition: color .2s ease;
 }
 .nav__link:hover{ color:rgba(234,246,246,1) }
 .nav__link::after{
