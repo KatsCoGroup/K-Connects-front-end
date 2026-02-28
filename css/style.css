@@ -103,9 +103,9 @@ p{line-height:1.6}
 .btn--primary{
   background:linear-gradient(180deg, rgba(18,214,208,1), rgba(8,170,168,1));
   color:#021010;
-  box-shadow: 0 10px 30px rgba(18,214,208,.22);
+  box-shadow: 0 12px 35px rgba(18,214,208,.25);
 }
-.btn--primary:hover{ transform: translateY(-1px); box-shadow: 0 14px 45px rgba(18,214,208,.28); }
+.btn--primary:hover{ transform: translateY(-2px); box-shadow: 0 16px 50px rgba(18,214,208,.35); }
 .btn--ghost{
   background: transparent;
   border-color: rgba(234,246,246,.25);
