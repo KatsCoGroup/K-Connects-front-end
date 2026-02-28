@@ -448,12 +448,13 @@ p{line-height:1.6}
 /* CTA banner */
 .cta{
   background:#0a4a4a;
-  padding: 54px 0;
+  padding: 60px 0;
 }
 .cta__inner{
-  border: 1px solid rgba(18,214,208,.65);
-  border-radius: 10px;
-  padding: 44px 34px;
+  border: 2px solid rgba(18,214,208,.7);
+  border-radius: 12px;
+  padding: 50px 40px;
+  box-shadow: 0 0 0 2px rgba(18,214,208,.15), 0 0 50px rgba(18,214,208,.2);
 }
 .cta__title{
   margin:0 0 14px;
