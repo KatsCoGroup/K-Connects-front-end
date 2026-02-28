@@ -318,8 +318,8 @@ p{line-height:1.6}
   flex-direction:column;
 }
 .glowCard{
-  border-color: rgba(18,214,208,.55);
-  box-shadow: 0 0 0 2px rgba(18,214,208,.25), 0 28px 70px rgba(0,0,0,.58), 0 0 44px rgba(18,214,208,.22);
+  border-color: rgba(18,214,208,.6);
+  box-shadow: 0 0 0 2px rgba(18,214,208,.3), 0 30px 75px rgba(0,0,0,.6), 0 0 50px rgba(18,214,208,.25);
 }
 .card__icon{ margin-bottom: 10px; }
 .roundIcon{
