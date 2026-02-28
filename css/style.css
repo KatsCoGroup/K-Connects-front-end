@@ -388,18 +388,18 @@ p{line-height:1.6}
   align-items:stretch;
 }
 .priceCard{
-  background: rgba(0,0,0,.35);
-  border: 1px solid rgba(18,214,208,.45);
+  background: rgba(0,0,0,.4);
+  border: 1px solid rgba(18,214,208,.5);
   border-radius: var(--radius2);
-  padding: 26px 22px 22px;
-  box-shadow: 0 0 0 2px rgba(18,214,208,.16), 0 24px 70px rgba(0,0,0,.62);
+  padding: 28px 24px 24px;
+  box-shadow: 0 0 0 2px rgba(18,214,208,.18), 0 26px 75px rgba(0,0,0,.65);
   position:relative;
   min-height: 460px;
   display:flex;
   flex-direction:column;
 }
 .priceCard--popular{
-  box-shadow: 0 0 0 3px rgba(18,214,208,.22), 0 30px 90px rgba(0,0,0,.62), 0 0 60px rgba(18,214,208,.22);
+  box-shadow: 0 0 0 3px rgba(18,214,208,.25), 0 32px 95px rgba(0,0,0,.65), 0 0 65px rgba(18,214,208,.24);
 }
 .badge{
   position:absolute;
