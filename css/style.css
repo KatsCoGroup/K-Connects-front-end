@@ -218,8 +218,8 @@ p{line-height:1.6}
 .hero__glow{
   position:absolute;
   inset: -20px -10px -20px -10px;
-  background: radial-gradient(420px 420px at 55% 40%, rgba(18,214,208,.35), transparent 60%);
-  filter: blur(2px);
+  background: radial-gradient(450px 450px at 55% 40%, rgba(18,214,208,.4), transparent 62%);
+  filter: blur(3px);
   z-index:0;
 }
 .hero__img{
