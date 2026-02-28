@@ -208,7 +208,7 @@ p{line-height:1.6}
   align-items:center;
 }
 .hero__copy{ padding-top: 10px; }
-.hero__cta{ display:flex; gap:18px; flex-wrap:wrap; }
+.hero__cta{ display:flex; gap:20px; flex-wrap:wrap; margin-top:4px; }
 
 .hero__art{
   position:relative;
