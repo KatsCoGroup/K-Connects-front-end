@@ -348,12 +348,12 @@ p{line-height:1.6}
 /* AI game section */
 .aigame{
   background:#0a4a4a;
-  padding: 58px 0;
+  padding: 64px 0;
 }
 .aigame__grid{
   display:grid;
   grid-template-columns: 1.05fr .95fr;
-  gap:34px;
+  gap:40px;
   align-items:center;
 }
 .aigame__art{
